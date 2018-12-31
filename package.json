@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Littlombie/anydoor/issues"
   },
-  "homepage": "https://github.com/Littlombie/anydoor#readme"
+  "homepage": "https://github.com/Littlombie/anydoor#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "handlebars": "^4.0.12"
+  }
 }
